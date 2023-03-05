@@ -11,7 +11,7 @@ import SwiftUI
 struct NYtree2023App: App {
     var body: some Scene {
         WindowGroup {
-            SwiftUINYFireworksTree()
+            SwiftUINYTree()
         }
     }
 }

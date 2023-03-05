@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		CA4F404C295F3B5700EB4834 /* NYtree2023App.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA4F404B295F3B5700EB4834 /* NYtree2023App.swift */; };
-		CA4F404E295F3B5700EB4834 /* SwiftUINYFireworksTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA4F404D295F3B5700EB4834 /* SwiftUINYFireworksTree.swift */; };
+		CA4F404E295F3B5700EB4834 /* SwiftUINYTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = CA4F404D295F3B5700EB4834 /* SwiftUINYTree.swift */; };
 		CA4F4050295F3B5A00EB4834 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA4F404F295F3B5A00EB4834 /* Assets.xcassets */; };
 		CA4F4053295F3B5A00EB4834 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA4F4052295F3B5A00EB4834 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		CA4F4048295F3B5700EB4834 /* NYtree2023.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NYtree2023.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA4F404B295F3B5700EB4834 /* NYtree2023App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NYtree2023App.swift; sourceTree = "<group>"; };
-		CA4F404D295F3B5700EB4834 /* SwiftUINYFireworksTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUINYFireworksTree.swift; sourceTree = "<group>"; };
+		CA4F404D295F3B5700EB4834 /* SwiftUINYTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUINYTree.swift; sourceTree = "<group>"; };
 		CA4F404F295F3B5A00EB4834 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CA4F4052295F3B5A00EB4834 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				CA4F404B295F3B5700EB4834 /* NYtree2023App.swift */,
-				CA4F404D295F3B5700EB4834 /* SwiftUINYFireworksTree.swift */,
+				CA4F404D295F3B5700EB4834 /* SwiftUINYTree.swift */,
 				CA4F404F295F3B5A00EB4834 /* Assets.xcassets */,
 				CA4F4051295F3B5A00EB4834 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				CA4F404E295F3B5700EB4834 /* SwiftUINYFireworksTree.swift in Sources */,
+				CA4F404E295F3B5700EB4834 /* SwiftUINYTree.swift in Sources */,
 				CA4F404C295F3B5700EB4834 /* NYtree2023App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

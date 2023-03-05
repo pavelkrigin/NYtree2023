@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct SwiftUINYFireworksTree: View {
+struct SwiftUINYTree: View {
     
     @State private var isSpinning = false
     
@@ -241,6 +241,6 @@ struct SwiftUINYFireworksTree: View {
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        SwiftUINYFireworksTree()
+        SwiftUINYTree()
     }
 }
